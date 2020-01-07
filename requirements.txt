@@ -7,3 +7,10 @@ ipython
 pandas
 vdom
 jupyterlab_launcher>=0.5.0
+bcolz
+bdot
+time
+timeit
+memory_profiler
+pymysql
+shutil
